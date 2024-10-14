@@ -1,3 +1,5 @@
+//opera di riferimento: https://www.arts-in-the-city.com/2023/12/07/disparition-de-vera-molnar-lexposition-hommage-de-la-galerie-la-galerie-8-4/
+
 function setup() {
   createCanvas(windowWidth, windowHeight); // schermo che si adatta
   background(255); // Imposta lo sfondo bianco
